@@ -1,4 +1,5 @@
-  
+## Inputs --> number (interger)
+## Inputs -->
 
 
 def unsafe?(speed)

@@ -1,5 +1,5 @@
 ## Inputs --> number (interger)
-## Inputs -->
+## Outputs --> answer the question am i unsafe -->boolean ()
 
 
 def unsafe?(speed)
